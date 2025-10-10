@@ -14,13 +14,14 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 - 🇺🇸 **UCSB (University of California, Santa Barbara)** — Exchange semester in AI & Machine Learning (Fall 2024)  
 - 🇫🇷 **ESGI Master’s (2025 – 2027)** — Mobility & Connected Objects specialization  
 
-💼 **Experience**
-- **Full Stack Developer (Apprenticeship)** — SPVIE Technology (2022 – Present)  
+💼 **Experience**$
+- **Software Engineer (Apprenticeship)** - Axa France (2025 - Present)
+- **Full Stack Developer (Apprenticeship)** — SPVIE Technology (2022 – 2025)  
 - **Founder & Web Developer** — ADDEVERSE (2024 – Present)
 
 🚀 **Projects**
 - **SKOOT** — Shared mobility app (Kotlin, iOS, JavaFX, Node.js, SQL)  
-- **PCS** — Concierge ecosystem with Cisco infra & custom admin backoffice  
+- **PCS** — Concierge ecosystem (Airbnb Like) from Scratch with Cisco infra & custom admin backoffice  
 - **Wikifine** — Enhanced Wikipedia-style platform with full stack dev  
 
 📍 **Location:** Suresnes, France  
@@ -68,7 +69,7 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zacharia%20Adde-blue?logo=linkedin)](https://www.linkedin.com/in/zacharia-adde/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zacharia--adde.dev-orange?logo=firefox)](https://zack-adde.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zack-adde.fr-orange?logo=firefox)](https://zack-adde.fr)
 [![Email](https://img.shields.io/badge/Email-addeZKE%40gmail.com-red?logo=gmail)](mailto:addeZKE@gmail.com)
 
 ---
