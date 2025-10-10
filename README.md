@@ -51,8 +51,8 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZachariaAdde&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachariaAdde&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZACK7870&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZACK7870&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
