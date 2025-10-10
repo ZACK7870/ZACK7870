@@ -26,7 +26,7 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 📍 **Location:** Suresnes, France  
 📧 **Email:** addeZKE@gmail.com  
 📱 **Phone:** +33 6 37 91 83 38  
-🌐 **Portfolio:** [zacharia-adde.dev](https://zacharia-adde.dev) *(replace with your actual domain if available)*
+🌐 **Portfolio:** [Zacharia Adde](https://zack-adde.fr)
 
 ---
 
@@ -68,7 +68,7 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zacharia%20Adde-blue?logo=linkedin)](https://www.linkedin.com/in/zacharia-adde/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zacharia--adde.dev-orange?logo=firefox)](https://zacharia-adde.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zacharia--adde.dev-orange?logo=firefox)](https://zack-adde.fr)
 [![Email](https://img.shields.io/badge/Email-addeZKE%40gmail.com-red?logo=gmail)](mailto:addeZKE@gmail.com)
 
 ---
