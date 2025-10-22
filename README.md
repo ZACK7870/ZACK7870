@@ -59,7 +59,7 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zacharia%20Adde-blue?logo=linkedin)](https://www.linkedin.com/in/zacharia-adde/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zacharia%20Adde-blue?logo=linkedin)]([https://www.linkedin.com/in/zacharia-adde/](https://www.linkedin.com/in/zacharia-adde-9a680522a/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-zack--adde.fr-orange?logo=firefox)](https://zack-adde.fr)
 [![Email](https://img.shields.io/badge/Email-addeZKE%40gmail.com-red?logo=gmail)](mailto:addeZKE@gmail.com)
 
