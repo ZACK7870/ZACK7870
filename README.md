@@ -49,15 +49,6 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-nfg5.onrender.com/api?username=ZACK7870&show_icons=true&hide_rank=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-nfg5.onrender.com/api/top-langs/?username=ZACK7870&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
----
-
 ## ⚡ Quick Facts
 
 - 🎯 Goal: Become **Lead Front-End Developer**
