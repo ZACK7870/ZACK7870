@@ -17,7 +17,7 @@ Currently based in **Suresnes, France**, I combine creativity and technical prec
 💼 **Experience**
 - **Software Engineer (Apprenticeship)** - Axa France (2025 - Present)
 - **Full Stack Developer (Apprenticeship)** — SPVIE Technology (2022 – 2025)  
-- **Founder & Web Developer** — ADDEVERSE (2024 – Present)
+- **Founder & Web Developer** — [ADDEVERSE](https://addeverse.com) (2024 – Present)
 
 🚀 **Projects**
 - **SKOOT** — Shared mobility app (Kotlin, iOS, JavaFX, Node.js, SQL)  
